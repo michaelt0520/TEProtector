@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TEProtectorModelStoreContainer" CdmEntityContainer="AccountTEEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="TEProtectorModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CauHoi" ColumnName="CauHoi" />
+          <ScalarProperty Name="CauTraLoi" ColumnName="CauTraLoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChildModes">
+      <EntityTypeMapping TypeName="TEProtectorModel.ChildMode">
+        <MappingFragment StoreEntitySet="ChildMode">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TatTaskMng" ColumnName="TatTaskMng" />
+          <ScalarProperty Name="ChanDuongDan" ColumnName="ChanDuongDan" />
+          <ScalarProperty Name="ChanUngDung" ColumnName="ChanUngDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Features">
+      <EntityTypeMapping TypeName="TEProtectorModel.Feature">
+        <MappingFragment StoreEntitySet="Features">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="ActiveMatKhau" ColumnName="ActiveMatKhau" />
+          <ScalarProperty Name="NotiKhoaMay" ColumnName="NotiKhoaMay" />
+          <ScalarProperty Name="TGNoti" ColumnName="TGNoti" />
+          <ScalarProperty Name="PTNotiMacDinh" ColumnName="PTNotiMacDinh" />
+          <ScalarProperty Name="PTNotiThietLap" ColumnName="PTNotiThietLap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Homes">
+      <EntityTypeMapping TypeName="TEProtectorModel.Home">
+        <MappingFragment StoreEntitySet="Home">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TGSuDung" ColumnName="TGSuDung" />
+          <ScalarProperty Name="TGTatMay" ColumnName="TGTatMay" />
+          <ScalarProperty Name="TGNTKhoaMay" ColumnName="TGNTKhoaMay" />
+          <ScalarProperty Name="TGNTKhoa" ColumnName="TGNTKhoa" />
+          <ScalarProperty Name="TGNDSoLan" ColumnName="TGNDSoLan" />
+          <ScalarProperty Name="TGNDKhoa" ColumnName="TGNDKhoa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Settings">
+      <EntityTypeMapping TypeName="TEProtectorModel.Setting">
+        <MappingFragment StoreEntitySet="Setting">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="ManHinhMo" ColumnName="ManHinhMo" />
+          <ScalarProperty Name="ManHinhDonSac" ColumnName="ManHinhDonSac" />
+          <ScalarProperty Name="MaMau" ColumnName="MaMau" />
+          <ScalarProperty Name="ManHinhHinhAnh" ColumnName="ManHinhHinhAnh" />
+          <ScalarProperty Name="DuongDanAnh" ColumnName="DuongDanAnh" />
+          <ScalarProperty Name="ManHinhDaAnh" ColumnName="ManHinhDaAnh" />
+          <ScalarProperty Name="DuongDanThuMuc" ColumnName="DuongDanThuMuc" />
+          <ScalarProperty Name="TGThayAnh" ColumnName="TGThayAnh" />
+          <ScalarProperty Name="AmThanhKhoaMacDinh" ColumnName="AmThanhKhoaMacDinh" />
+          <ScalarProperty Name="TenFileKhoaMacDinh" ColumnName="TenFileKhoaMacDinh" />
+          <ScalarProperty Name="AmThanhKhoaCusTom" ColumnName="AmThanhKhoaCusTom" />
+          <ScalarProperty Name="TenFileKhoaCustom" ColumnName="TenFileKhoaCustom" />
+          <ScalarProperty Name="AmThanhNotiMacDinh" ColumnName="AmThanhNotiMacDinh" />
+          <ScalarProperty Name="TenFileNotiMacDinh" ColumnName="TenFileNotiMacDinh" />
+          <ScalarProperty Name="AmThanhNotiCusTom" ColumnName="AmThanhNotiCusTom" />
+          <ScalarProperty Name="TenFileNotiCustom" ColumnName="TenFileNotiCustom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

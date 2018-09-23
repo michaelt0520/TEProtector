@@ -1,0 +1,114 @@
+﻿<Window x:Class="TEProtectorV1.Windows.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:usercontrol="clr-namespace:TEProtectorV1.UserControlContent"
+        mc:Ignorable="d"
+        Title="FormClose" Height="550" Width="500"
+        MaxHeight="550" MaxWidth="500"
+        WindowStartupLocation="CenterScreen"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Grid.OpacityMask>
+            <VisualBrush Visual="{Binding ElementName=Border1}" />
+        </Grid.OpacityMask>
+        <Border x:Name="Border1" CornerRadius="15" Background="#FFF2F7EC" Grid.Row="0" Grid.RowSpan="3"/>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="/TEProtectorV1;component/Images/Logo/LogoWithoutText.png" Grid.Column="0" Stretch="Uniform" Width="30" Height="30"/>
+
+
+
+            <StackPanel Grid.Column="2" Orientation="Horizontal">
+                <Button
+                        x:Name="btnClose"
+                        Click="BtnClose_Click"
+                        Margin="5 0 0 0"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        Width="20" Height="20" Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                    <materialDesign:PackIcon Kind="Close" Height="12" Width="12" />
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" Background="#FF8DC060">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="350" Background="#FFF2F7EC" Grid.Row="2" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" 
+                           x:Name="btnLogin"
+                           Foreground="#FF8DC060"
+                           Text="Đăng nhập" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" 
+                           PreviewMouseDown="BtnLogin_PreviewMouseDown"/>
+                <TextBlock Grid.Column="1" 
+                           x:Name="btnSignup"
+                           Foreground="#FF8DC060" 
+                           Text="Đăng ký" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" 
+                           PreviewMouseDown="BtnSignup_PreviewMouseDown"/>
+                <TextBlock Grid.Column="3" 
+                           x:Name="btnForgot"
+                           Foreground="#FF8DC060" 
+                           Text="Quên mật khẩu" 
+                           VerticalAlignment="Center" HorizontalAlignment="Center" 
+                           PreviewMouseDown="BtnForgot_PreviewMouseDown"/>
+                
+                <Grid x:Name="gridLogin" Grid.Column="0" Height="3" VerticalAlignment="Bottom"/>
+                <Grid x:Name="gridSignup" Grid.Column="1" Height="3" VerticalAlignment="Bottom"/>
+                <Grid x:Name="gridForgotPassowrd" Grid.Column="2" Height="3" VerticalAlignment="Bottom"/>
+
+            </Grid>
+            <!--usercontrol-->
+            <Grid Grid.Column="1" Grid.Row="1" x:Name="gridAccount"/>
+
+        </Grid>
+
+
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="/TEProtectorV1;component/Images/Logo/OnlyText.png" Stretch="Uniform" Grid.Column="0"/>
+            <TextBlock Text="Version 1.0.0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Light" Foreground="#FF57AB27" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,539 @@
+﻿<Window x:Class="TEProtectorV1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TEProtectorV1"
+        xmlns:formclose="clr-namespace:TEProtectorV1.Windows"
+        xmlns:usercontrol="clr-namespace:TEProtectorV1.UserControlContent"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="600" Width ="1024"
+        MinHeight="600" MinWidth="1024"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True"
+        Icon="Images/Logo/Icon.ico"
+        
+        SizeChanged="Window_SizeChanged"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <!-- Set background color for windows layout -->
+        <Grid Background="#FFF2F7EC" Grid.Row="0" Grid.RowSpan="3"/>
+
+        <!-- Header -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="400"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+
+            <Image x:Name="headerLogo" Source="/TEProtectorV1;component/Images/Logo/LogoWithoutText.png" Grid.Column="0" Stretch="Uniform" Width="30" Height="30"/>
+
+            <Grid Grid.Column="1">
+                <Label MouseDoubleClick="Label_MouseDoubleClick"/>
+            </Grid>
+
+            <Grid Grid.Column="2" x:Name="gridAccount"/>
+
+            <TextBlock Grid.Column="3"
+                       Text="|"
+                       FontSize="18"
+                       Foreground="#FF57AB27"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"/>
+
+            <StackPanel Grid.Column="4" Orientation="Horizontal">
+                <Button
+                        x:Name="btnMinSize"
+                        Click="BtnMinSize_Click"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        Width="20" Height="20" Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                    <materialDesign:PackIcon Kind="WindowMinimize" Height="12" Width="12" />
+                </Button>
+
+                <Button
+                        x:Name="btnMaxSize"
+                        Click="BtnMaxSize_Click"
+                        Margin="5 0 0 0"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        Width="20" Height="20" Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                    <materialDesign:PackIcon Kind="WindowMaximize" Height="12" Width="12" />
+                </Button>
+
+                <Button
+                        x:Name="btnClose"
+                        Click="BtnClose_Click"
+                        Margin="5 0 0 0"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        Width="20" Height="20" Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                    <materialDesign:PackIcon Kind="Close" Height="12" Width="12" />
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <!-- Content -->
+
+        <Grid Grid.Row="1" Background="#FF8DC060">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="3"/>
+                <RowDefinition/>
+                <RowDefinition Height="3"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Clock -->
+            <Border x:Name="BorderCornerClock" CornerRadius="5" 
+                    Background="#FFF2F7EC" 
+                    Grid.Column="0" Grid.Row="1"
+                    Margin="3 0 0 0"/>
+            <Grid Margin="3 0 0 0" Grid.Column="0" Grid.Row="1" Background="#FFDDEBCE">
+                <Grid.OpacityMask>
+                    <VisualBrush Visual="{Binding ElementName=BorderCornerClock}" />
+                </Grid.OpacityMask>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtShowClock" Text="00:00:00"  Foreground="#FF57AB27" FontSize="50" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    <TextBlock x:Name="txttt" Text="tt" Foreground="#FF57AB27" FontSize="26" VerticalAlignment="Bottom" Height="38" Margin="10 0 0 0"/>
+                </StackPanel>
+            </Grid>
+
+            <!-- Side bar -->
+
+            <Grid Grid.Row="3" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="0.6*"/>
+                </Grid.RowDefinitions>
+
+                <Border x:Name="BorderCornerSidebar1" 
+                    CornerRadius="5" 
+                    Background="#FFDDEBCE" 
+                    Grid.Row="0"
+                    Margin="3 0 0 3"/>
+                <Grid Margin="3 0 0 3" Grid.Row="0">
+                    <Grid.OpacityMask>
+                        <VisualBrush Visual="{Binding ElementName=BorderCornerSidebar1}" />
+                    </Grid.OpacityMask>
+
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="5"/>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="5"/>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="5"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Image 
+                            Grid.Row="1"
+                            Source="/TEProtectorV1;component/Images/Logo/HuflitLogo.png" Stretch="Uniform"/>
+                       
+
+                        <StackPanel Grid.Row="3">
+                            <TextBlock Text="Chế độ dành cho trẻ em"
+                                       FontWeight="Bold"
+                                       FontSize="20"
+                                       HorizontalAlignment="Center"
+                                       Foreground="#FF8DC060"/>
+
+                            <Grid Height="55">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+
+                                <Image Name="OffChildMode"
+                                       Source="/TEProtectorV1;component/Images/OnOff/Off-enable.png" 
+                                       Grid.Column="0" 
+                                       Height="20"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Right"/>
+
+                                <Image Name="OnChildMode"
+                                       Source="/TEProtectorV1;component/Images/OnOff/On-disable.png" 
+                                       Grid.Column="2"
+                                       Height="20"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Left"/>
+
+                                <ToggleButton Grid.Column="1"
+                                              Name="ChildMode"
+                                              Click="ChildMode_Click"
+                                    Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" 
+                                    Height="30"/>
+                            </Grid>
+                        </StackPanel>
+                        
+                        <Grid Grid.Row="5">
+                            <Border x:Name="BorderCornerSidebar1Top" 
+                                CornerRadius="5" 
+                                Background="#FFCDE2B8" 
+                                Grid.Row="0"
+                                Margin="5"/>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="5"/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition Height="5"/>
+                                </Grid.RowDefinitions>
+                                <Grid Grid.Row="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Grid.Row="0"
+                                               FontSize="20"
+                                               Foreground="#FF57AB27"
+                                               Text="Thời gian sử dụng"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"/>
+                                    <TextBlock Grid.Row="1"
+                                               x:Name="showTimeUsing"
+                                               FontSize="26"
+                                               FontWeight="Bold"
+                                               Foreground="#FF57AB27"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Text="00:00"/>
+                                </Grid>
+
+                                <Grid Grid.Row="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Grid.Row="0"
+                                               FontSize="20"
+                                               Foreground="#FF57AB27"
+                                               Text="Thời gian còn lại"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"/>
+                                    <TextBlock Grid.Row="1"
+                                               x:Name="showTimeLeft"
+                                               FontSize="26"
+                                               FontWeight="Bold"
+                                               Foreground="#FF57AB27"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Text="00:00"/>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+                <Border x:Name="BorderCornerSidebar2" 
+                    CornerRadius="5"
+                    Background="#FFDDEBCE"
+                    Grid.Row="1"
+                    Margin="3 0 0 0"/>
+                <Grid Margin="3 0 0 0" Grid.Row="1">
+                    <Grid.OpacityMask>
+                        <VisualBrush Visual="{Binding ElementName=BorderCornerSidebar2}" />
+                    </Grid.OpacityMask>
+
+                    <Border x:Name="BorderCornerSidebarBot" 
+                                CornerRadius="5" 
+                                Background="#FFCDE2B8"
+                                Margin="5"/>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="5"/>
+                            <RowDefinition Height="0.6*"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="5"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0"
+                                               FontSize="20"
+                                               Foreground="#FF57AB27"
+                                               Text="Thời gian khóa máy"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"/>
+                            <TextBlock Grid.Row="1"
+                                       x:Name="showTimeLock"
+                                               FontSize="26"
+                                               FontWeight="Bold"
+                                               Foreground="#FF57AB27"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Text="00:00"/>
+
+
+                        </Grid>
+
+                        <Grid Grid.Row="3">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0"
+                                               FontSize="20"
+                                               Foreground="#FF57AB27"
+                                               Text="Thời gian khóa máy tiếp theo"
+                                               Height="50"
+                                               Width="180"
+                                               TextAlignment="Center"
+                                               TextWrapping="Wrap"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"/>
+                            <TextBlock Grid.Row="1"
+                                       x:Name="showTimeLockLeft"
+                                               FontSize="26"
+                                               FontWeight="Bold"
+                                               Foreground="#FF57AB27"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Text="00:00"/>
+
+
+                        </Grid>
+                    </Grid>
+                </Grid>
+            </Grid>
+
+
+            <!-- Menu UserControl -->
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="40"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2.5"/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                    x:Name="btnHome"
+                    Click="BtnHome_Click"
+                    Background="#FFDDEBCE"
+                    BorderBrush="#FFF2F7EC"
+                    Grid.Column="1"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Height="60">
+                        <Grid x:Name="gridbtnHome" Width="140" Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="/TEProtectorV1;component/Images/IconButton/BtnHome.png" Grid.Column="0" Stretch="Uniform"/>
+                            <TextBlock
+                                x:Name="txtHome"
+                                Height="40"
+                                TextAlignment="Center"
+                                TextWrapping="Wrap"
+                                Text="TRANG CHỦ" Grid.Column="1" 
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Foreground="#FF57AB27"
+                                FontSize="18"/>
+                        </Grid>
+                    </Button>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2.5"/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                    x:Name="btnChildMode"
+                    Click="BtnChildMode_Click"
+                    Background="#FFDDEBCE"
+                    BorderBrush="#FFF2F7EC"
+                    IsEnabled="{Binding ElementName=ChildMode, Path=IsChecked}"
+                    Grid.Column="1"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Height="60">
+                        <Grid x:Name="gridBtnChildMode" Width="140" Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="/TEProtectorV1;component/Images/IconButton/BtnChildMode.png" Grid.Column="0" Stretch="Uniform"/>
+                            <TextBlock
+                                x:Name="txtChildMode"
+                                Height="40"
+                                TextWrapping="Wrap"
+                                TextAlignment="Center"
+                                Text="CHẾ ĐỘ TRẺ EM" Grid.Column="1" 
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Foreground="#FF57AB27"
+                                FontSize="18"/>
+                        </Grid>
+                    </Button>
+                </Grid>
+
+                <Grid Grid.Column="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2.5"/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                    x:Name="btnFeatures"
+                    Click="BtnFeatures_Click"
+                    Background="#FFDDEBCE"
+                    BorderBrush="#FFF2F7EC"
+                    Grid.Column="1"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Height="60">
+                        <Grid x:Name="gridbtnFeatures" Width="140" Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.6*"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="/TEProtectorV1;component/Images/IconButton/BtnFeatures.png" Grid.Column="0" Stretch="Uniform"/>
+                            <TextBlock
+                                x:Name="txtFeatures"
+                                Height="40"
+                                TextWrapping="Wrap"
+                                TextAlignment="Center"
+                                Text="TÍNH NĂNG" Grid.Column="1" 
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Foreground="#FF57AB27"
+                                FontSize="18"/>
+                        </Grid>
+                    </Button>
+                </Grid>
+
+                <Grid Grid.Column="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="2.5"/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                    x:Name="btnSetting"
+                    Click="BtnSetting_Click"
+                    Background="#FFDDEBCE"
+                    BorderBrush="#FFF2F7EC"
+                    Grid.Column="1"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Height="60">
+                        <Grid x:Name="gridbtnSetting" Width="100" Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.6*"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="/TEProtectorV1;component/Images/IconButton/BtnSetting.png" Grid.Column="0" Stretch="Uniform"/>
+                            <TextBlock 
+                                x:Name="txtSetting"
+                                Text="CÀI ĐẶT" Grid.Column="1" 
+                                TextWrapping="Wrap"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Foreground="#FF57AB27"
+                                FontSize="18"/>
+                        </Grid>
+                    </Button>
+                </Grid>
+
+                <Grid Grid.Column="4">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="2"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button
+                        x:Name="btnHelp"
+                        Click="BtnHelp_Click"
+                        Grid.Row="0"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        ToolTip="Trợ giúp"
+                        Height="25" Width="25"
+                         Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                        <materialDesign:PackIcon
+                            Kind="Help"
+                            Height="15"
+                            Width="15"/>
+                    </Button>
+
+                    <Button
+                        x:Name="btnAbout"
+                        Click="BtnAbout_Click"
+                        Grid.Row="2"
+                        Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+                        ToolTip="Thông tin"
+                        Height="25" Width="25"
+                         Background="#FFB8D698" BorderBrush="#FFDDEBCE">
+                        <materialDesign:PackIcon
+                            Kind="Exclamation"
+                            Height="15"
+                            Width="15"/>
+                    </Button>
+
+                </Grid>
+            </Grid>
+
+            <!-- Show UserControl -->
+            <Border x:Name="BorderCornerUserContent" CornerRadius="5" Background="#FFF2F7EC" Grid.Column="1" Grid.Row="3" Margin="3 0 3 0"/>
+            <Grid Grid.Column="1" Grid.Row="3" 
+                  Background="#FFDDEBCE"
+                  Margin="3 0 3 0"
+                  x:Name="showTabs"
+                  IsEnabled="{Binding ElementName=AppActive, Path=IsChecked}">
+                <Grid.OpacityMask>
+                    <VisualBrush Visual="{Binding ElementName=BorderCornerUserContent}" />
+                </Grid.OpacityMask>
+                
+            </Grid>
+
+        </Grid>
+
+        <!-- Footer -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="55"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="90"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="Images/Logo/OnlyText.png" Stretch="Uniform" Grid.Column="0"/>
+            <TextBlock Text="Version 1.0.0" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontWeight="Light" Foreground="#FF57AB27" />
+        </Grid>
+
+    </Grid>
+
+</Window>

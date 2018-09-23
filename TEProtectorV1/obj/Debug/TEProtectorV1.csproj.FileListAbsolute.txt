@@ -1,0 +1,743 @@
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\App.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\App.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\Style\Style.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+E:\Projects\dot Net\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\App.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\App.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\Style\Style.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorDuo.exe
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorDuo.pdb
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorDuo.exe.config
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\App.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\App.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Style\Style.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+E:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.baml
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+F:\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Projects\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\App.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\App.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\Style\Style.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+D:\Projects\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\App.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\App.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\MainWindow.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Style\Style.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Signup.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1\TEProtectorV1\obj\Debug\Windows\Signup.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Signup.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Signup.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Style\Style.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\AboutContent.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeatureContent.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HelpContent.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+E:\Projects\dot Net\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+E:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\WPF\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+F:\WPF\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\Icon.ico
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithoutText.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithText.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\OnlyText.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnHome.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnFeatures.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnSetting.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-disable.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-enable.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-disable.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-enable.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Login.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite3.jpg
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite4.jpg
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Key.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\warning-shield.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnChildMode.png
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_Content.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\Icon.ico
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithoutText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\OnlyText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnHome.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnFeatures.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnSetting.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-disable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-enable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-disable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-enable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Login.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite3.jpg
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite4.jpg
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Key.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\warning-shield.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnChildMode.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_Content.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Logo\Icon.ico
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Logo\LogoWithoutText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Logo\LogoWithText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Logo\OnlyText.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\BtnHome.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\BtnFeatures.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\BtnSetting.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\OnOff\Off-disable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\OnOff\Off-enable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\OnOff\On-disable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\OnOff\On-enable.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\Login.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite3.jpg
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite4.jpg
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\Key.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\warning-shield.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\Images\IconButton\BtnChildMode.png
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\MainWindow.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\App.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1_Content.g.cs
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\App.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\MainWindow.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\DisplayLogin.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\Windows\Login.baml
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+C:\Users\Anterman\Desktop\TEProtectorV1.2_Nam\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.g.cs
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.pdb
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.baml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.dll
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.xml
+E:\Projects\dotNet\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_Content.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\Icon.ico
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithoutText.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithText.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\OnlyText.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnHome.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnFeatures.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnSetting.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-disable.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-enable.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-disable.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-enable.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Login.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite3.jpg
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite4.jpg
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\warning-shield.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnChildMode.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\hosts
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\CopyHostsFile.exe
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\DeleteHostsFile.exe
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Notifications.Wpf.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\CustomNotification.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\CustomNotification.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\DeleteHostsFile.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\hosts
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\CopyHostsFile\CopyHostsFile.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\Icon.ico
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithoutText.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\LogoWithText.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\OnlyText.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnHome.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnFeatures.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnSetting.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-disable.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\Off-enable.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-disable.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\OnOff\On-enable.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\Login.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite3.jpg
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Wallpaper\Yosemite4.jpg
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\warning-shield.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\IconButton\BtnChildMode.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe.config
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\TEProtectorV1.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Notifications.Wpf.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.xml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csprojResolveAssemblyReference.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\CustomNotification.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\HomeContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SettingContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\CustomNotification.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\FormClose.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_Content.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1_MarkupCompile.lref
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\App.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\MainWindow.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ChildModeContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\DisplayName.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\FeaturesContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\ForgotPasswordContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\LoginContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\UserControlContent\SignUpContent.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\LockScreen.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Login.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\OpenNotify.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.g.resources
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Properties.Resources.resources
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.GenerateResource.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CoreCompileInputs.cache
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.csproj.CopyComplete
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.exe
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.pdb
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound1.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound2.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound3.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound4.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound5.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound1.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound2.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound3.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound4.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound5.mp3
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\ChangePassword.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\ChangePassword.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\HuflitLogo.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Logo\HuflitLogo.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound1.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound2.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound3.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound4.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\NotiSound\Sound5.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound1.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound2.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound3.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound4.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Sound\LockSound\Sound5.mp3
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\ChangePassword.g.cs
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\ChangePassword.baml
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Migrations.TEProtector.resources
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac1.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac2.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac3.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac4.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac5.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac6.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac8.png
+C:\Users\MichaelT\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac7.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac1.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac2.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac3.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac4.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac5.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac6.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac7.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\Images\Excercise\DongTac8.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\TEProtectorV1.Migrations.TEProtector.resources
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\AboutUs.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Tutorial.baml
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\AboutUs.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\obj\Debug\Windows\Tutorial.g.cs
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\caidat1.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\caidat2.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\caidat3.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\hienthi.png
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\tabchucnang.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\tinhnang.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\trangchu1.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\trangchu2.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\treem1.PNG
+C:\Users\Admin\Desktop\TEProtectorV1.2\TEProtectorV1\bin\Debug\HelpContent\treem2.PNG

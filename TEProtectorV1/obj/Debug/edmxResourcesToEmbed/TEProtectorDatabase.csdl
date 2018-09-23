@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TEProtectorModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoDienThoai" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="GioiTinh" Type="Boolean" />
+    <Property Name="CauHoi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CauTraLoi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ChildMode" Relationship="Self.FK_ChildMode" FromRole="Account" ToRole="ChildMode" />
+    <NavigationProperty Name="Feature" Relationship="Self.FK_Features" FromRole="Account" ToRole="Features" />
+    <NavigationProperty Name="Home" Relationship="Self.FK_Home" FromRole="Account" ToRole="Home" />
+    <NavigationProperty Name="Setting" Relationship="Self.FK_Setting" FromRole="Account" ToRole="Setting" />
+  </EntityType>
+  <EntityType Name="ChildMode">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TatTaskMng" Type="Boolean" />
+    <Property Name="ChanDuongDan" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="ChanUngDung" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Account" Relationship="Self.FK_ChildMode" FromRole="ChildMode" ToRole="Account" />
+  </EntityType>
+  <EntityType Name="Feature">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ActiveMatKhau" Type="Boolean" />
+    <Property Name="NotiKhoaMay" Type="Boolean" />
+    <Property Name="TGNoti" Type="Int32" />
+    <Property Name="PTNotiMacDinh" Type="Boolean" />
+    <Property Name="PTNotiThietLap" Type="Boolean" />
+    <NavigationProperty Name="Account" Relationship="Self.FK_Features" FromRole="Features" ToRole="Account" />
+  </EntityType>
+  <EntityType Name="Home">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TGSuDung" Type="Int32" />
+    <Property Name="TGTatMay" Type="Int32" />
+    <Property Name="TGNTKhoaMay" Type="Int32" />
+    <Property Name="TGNTKhoa" Type="Int32" />
+    <Property Name="TGNDSoLan" Type="Int32" />
+    <Property Name="TGNDKhoa" Type="Int32" />
+    <NavigationProperty Name="Account" Relationship="Self.FK_Home" FromRole="Home" ToRole="Account" />
+  </EntityType>
+  <EntityType Name="Setting">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ManHinhMo" Type="Boolean" />
+    <Property Name="ManHinhDonSac" Type="Boolean" />
+    <Property Name="MaMau" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="ManHinhHinhAnh" Type="Boolean" />
+    <Property Name="DuongDanAnh" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="ManHinhDaAnh" Type="Boolean" />
+    <Property Name="DuongDanThuMuc" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="TGThayAnh" Type="Int32" />
+    <Property Name="AmThanhKhoaMacDinh" Type="Boolean" />
+    <Property Name="TenFileKhoaMacDinh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AmThanhKhoaCusTom" Type="Boolean" />
+    <Property Name="TenFileKhoaCustom" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="AmThanhNotiMacDinh" Type="Boolean" />
+    <Property Name="TenFileNotiMacDinh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AmThanhNotiCusTom" Type="Boolean" />
+    <Property Name="TenFileNotiCustom" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Account" Relationship="Self.FK_Setting" FromRole="Setting" ToRole="Account" />
+  </EntityType>
+  <Association Name="FK_ChildMode">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="ChildMode" Type="Self.ChildMode" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="ChildMode">
+        <PropertyRef Name="Email" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Features">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="Features" Type="Self.Feature" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="Features">
+        <PropertyRef Name="Email" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Home">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="Home" Type="Self.Home" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="Home">
+        <PropertyRef Name="Email" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Setting">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="Setting" Type="Self.Setting" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="Setting">
+        <PropertyRef Name="Email" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AccountTEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="ChildModes" EntityType="Self.ChildMode" />
+    <EntitySet Name="Features" EntityType="Self.Feature" />
+    <EntitySet Name="Homes" EntityType="Self.Home" />
+    <EntitySet Name="Settings" EntityType="Self.Setting" />
+    <AssociationSet Name="FK_ChildMode" Association="Self.FK_ChildMode">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="ChildMode" EntitySet="ChildModes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Features" Association="Self.FK_Features">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Features" EntitySet="Features" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Home" Association="Self.FK_Home">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Home" EntitySet="Homes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Setting" Association="Self.FK_Setting">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Setting" EntitySet="Settings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

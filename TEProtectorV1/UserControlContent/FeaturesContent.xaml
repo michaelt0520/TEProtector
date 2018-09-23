@@ -1,0 +1,206 @@
+﻿<UserControl x:Class="TEProtectorV1.UserControlContent.FeaturesContent"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TEProtectorV1.UserControlContent"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             FontFamily="{DynamicResource MaterialDesignFont}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <ScrollViewer>
+                <StackPanel>
+                    <Grid Height="100" Margin="0 10 0 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="50"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <CheckBox
+                        Grid.Row="0" Grid.Column="0"
+                        x:Name="chkbDisablePass"
+                        IsChecked="False"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center"/>
+
+                        <TextBlock Text="- Tính năng mật khẩu"
+                           FontSize="18"
+                           Grid.Column="1" Grid.Row="0"
+                           VerticalAlignment="Center" HorizontalAlignment="Left"
+                           Foreground="#FF57AB27"/>
+                        <Button Content="Chế độ ban đêm"
+                                x:Name="btnNightLight"
+                               FontSize="18"
+                               Grid.Column="1" Grid.Row="1"
+                               VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                    </Grid>
+
+                    <GroupBox
+                        Header="Thông báo trước khi khóa máy"
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        Margin="16"
+                        BorderThickness="0"
+                        Height="400"
+                        materialDesign:ShadowAssist.ShadowDepth="Depth3">
+
+                        <StackPanel>
+                            <Grid Height="30">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50"/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+
+                                <CheckBox
+                                    Grid.Row="0" Grid.Column="0"
+                                    x:Name="chkbEnableNotification"
+                                    IsChecked="False"
+                                    VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                                <TextBlock 
+                                    Text="- Thông báo trước khi khóa máy"
+                                    FontSize="18"
+                                    Grid.Column="1" Grid.Row="0"
+                                    VerticalAlignment="Center" HorizontalAlignment="Left"
+                                    Foreground="#FF57AB27"/>
+                            </Grid>
+                            <Grid Height="300">
+                                <GroupBox
+                                    Header="Thời gian thông báo trước khi khóa"
+                                    Style="{DynamicResource MaterialDesignGroupBox}"
+                                    Margin="16">
+
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="51"/>
+                                            <RowDefinition/>
+                                        </Grid.RowDefinitions>
+
+                                        <Grid Grid.Row="0">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition/>
+                                                <ColumnDefinition Width="40"/>
+                                                <ColumnDefinition Width="50"/>
+                                            </Grid.ColumnDefinitions>
+
+                                            <Slider
+                                                IsEnabled="{Binding ElementName=chkbEnableNotification, Path=IsChecked}"
+                                                Grid.Column="0"
+                                                x:Name="sliderSetupNotification"
+                                                Minimum="1"
+                                                Maximum="60"
+                                                Style="{StaticResource MaterialDesignDiscreteSlider}"
+                                                Value="30"
+                                                Grid.Row="0"/>
+                                            <TextBox x:Name="txtSetupTimeNotification"
+                                                     IsEnabled="{Binding ElementName=chkbEnableNotification, Path=IsChecked}"
+                                                    Text="{Binding ElementName=sliderSetupNotification, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                                    Grid.Column="1"
+                                                    FontSize="20"
+                                                    VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="(giây)"
+                                                FontSize="18"
+                                                Grid.Column="2"
+                                                VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+
+                                        </Grid>
+
+                                        <GroupBox
+                                            Height="130"
+                                            Grid.Row="1"
+                                            Header="Phương thức thông báo"
+                                            Style="{DynamicResource MaterialDesignGroupBox}"
+                                            Margin="16">
+
+                                            <Grid>
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="30"/>
+                                                    <RowDefinition Height="30"/>
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="50"/>
+                                                    <ColumnDefinition/>
+                                                </Grid.ColumnDefinitions>
+
+                                                <RadioButton
+                                                    IsEnabled="{Binding ElementName=chkbEnableNotification, Path=IsChecked}"
+                                                    Grid.Row="0" Grid.Column="0"
+                                                    IsChecked="True"
+                                                    x:Name="chkbDefaultNotification"
+                                                    GroupName="NotificationWays"
+                                                    VerticalAlignment="Center"
+                                                    HorizontalAlignment="Center"/>
+
+                                                <RadioButton
+                                                    IsEnabled="{Binding ElementName=chkbEnableNotification, Path=IsChecked}"
+                                                    Grid.Row="1" Grid.Column="0"
+                                                    x:Name="chkbCustomNotification"
+                                                    GroupName="NotificationWays"
+                                                    VerticalAlignment="Center"
+                                                    HorizontalAlignment="Center"/>
+
+                                                <TextBlock Text="- Mặc định"
+                                                    FontSize="18"
+                                                    Grid.Column="1" Grid.Row="0"
+                                                    VerticalAlignment="Center" HorizontalAlignment="Left"
+                                                    Foreground="#FF57AB27"/>
+                                                <TextBlock Text="- Thiết lập"
+                                                    FontSize="18"
+                                                    Grid.Column="1" Grid.Row="1"
+                                                    VerticalAlignment="Center" HorizontalAlignment="Left"
+                                                    Foreground="#FF57AB27"/>
+                                            </Grid>
+
+                                        </GroupBox>
+                                    </Grid>
+
+                                </GroupBox>
+                            </Grid>
+                        </StackPanel>
+
+                    </GroupBox>
+
+
+                </StackPanel>
+
+            </ScrollViewer>
+        </Grid>
+        <Grid Grid.Row="1" Background="#FFCDE2B8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button
+                x:Name="btnConfirm"
+                Grid.Column="1"
+                Style="{StaticResource MaterialDesignRaisedButton}"
+                Width="140" Height="40">
+                Đồng ý
+            </Button>
+            <Button
+                x:Name="btnReset"
+                Grid.Column="3"
+                Style="{StaticResource MaterialDesignRaisedButton}"
+                Width="140" Height="40">
+                Đặt lại
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>
