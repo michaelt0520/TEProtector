@@ -13,7 +13,7 @@ namespace TEProtectorV1.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201806031454385_TEProtector"; }
+            get { return "201809271703178_TEProtector"; }
         }
         
         string IMigrationMetadata.Source

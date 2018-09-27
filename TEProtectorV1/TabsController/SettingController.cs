@@ -34,7 +34,10 @@ namespace TEProtectorV1.TabsController
                     Account account = db.Accounts.Where(p => p.Email == Properties.Settings.Default.idaccess).SingleOrDefault();
                     account.manhinhmo = (setting.chkbTransparentLockScreen.IsChecked == true) ? true : false;
                     account.manhinhdonsac = (setting.chkbColorLockScreen.IsChecked == true) ? true : false;
-                    account.mamau = setting.txtHexColor.Text;
+                    if (setting.txtHexColor.Text != "#00FFFFFF" || setting.txtHexColor.Text != "")
+                        account.mamau = setting.txtHexColor.Text;
+                    else
+                        account.mamau = "#FF000000";
                     account.manhinhhinhanh = (setting.chkbImageLockScreen.IsChecked == true) ? true : false;
                     account.linkanh = setting.txtImageLockScreen.Text;
 

@@ -171,7 +171,6 @@ namespace TEProtectorV1.TabsController
 
         #endregion
 
-
         #region Short break
         private void TimeShortbreak()
         {

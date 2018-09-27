@@ -30,25 +30,25 @@ namespace TEProtectorV1.TEProtectorDB
         public int timeshutdown { get; set; }
         public int shortbreaktime { get; set; }
         public int shortbreaklock { get; set; }
-        public int longbreaktimes { get; set; }
+        public int longbreaktimes { get; set; } = 5;
         public int longbreaklock { get; set; }
         public bool taskmanager { get; set; }
-        public bool enablepass { get; set; }
-        public bool enablenoti { get; set; }
-        public int notitime { get; set; }
-        public bool defaultnoti { get; set; }
+        public bool enablepass { get; set; } = true;
+        public bool enablenoti { get; set; } = true;
+        public int notitime { get; set; } = 10;
+        public bool defaultnoti { get; set; } = true;
         public bool customnoti { get; set; }
-        public bool manhinhmo { get; set; }
+        public bool manhinhmo { get; set; } = true;
         public bool manhinhdonsac { get; set; }
-        public string mamau { get; set; } = "";
+        public string mamau { get; set; } = "#FF000000";
         public bool manhinhhinhanh { get; set; }
         public string linkanh { get; set; }
-        public bool locksounddefault { get; set; }
-        public string namelocksounddefault { get; set; }
+        public bool locksounddefault { get; set; } = true;
+        public string namelocksounddefault { get; set; } = "Nhạc số 1";
         public bool locksoundcustom { get; set; }
         public string linksoundcustom { get; set; }
-        public bool notificationsounddefault { get; set; }
-        public string namenotificationsounddefault { get; set; }
+        public bool notificationsounddefault { get; set; } = true;
+        public string namenotificationsounddefault { get; set; } = "Nhạc số 1";
         public bool notificationsoundcustom { get; set; }
         public string linknotificationsoundcustom { get; set; }
 

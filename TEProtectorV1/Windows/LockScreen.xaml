@@ -232,7 +232,7 @@
                                             BorderBrush="#FFC6E8B6"
                                             Style="{StaticResource MaterialDesignRaisedLightButton}"
                                             Width="100"
-                                            ToolTip="Resource name: MaterialDesignRaisedLightButton">
+                                            ToolTip="Unlock">
                                     Unlock
                                 </Button>
 

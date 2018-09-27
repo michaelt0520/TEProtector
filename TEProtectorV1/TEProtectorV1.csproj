@@ -122,9 +122,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="DetectApp.cs" />
-    <Compile Include="Migrations\201806031454385_TEProtector.cs" />
-    <Compile Include="Migrations\201806031454385_TEProtector.Designer.cs">
-      <DependentUpon>201806031454385_TEProtector.cs</DependentUpon>
+    <Compile Include="Migrations\201809271703178_TEProtector.cs" />
+    <Compile Include="Migrations\201809271703178_TEProtector.Designer.cs">
+      <DependentUpon>201809271703178_TEProtector.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Settings.cs" />
@@ -360,8 +360,8 @@
     <Content Include="Sound\LockSound\Sound5.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <EmbeddedResource Include="Migrations\201806031454385_TEProtector.resx">
-      <DependentUpon>201806031454385_TEProtector.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201809271703178_TEProtector.resx">
+      <DependentUpon>201809271703178_TEProtector.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
